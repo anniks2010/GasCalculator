@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GasCalculator</string>
+    <string name="cl">Clear</string>
+    <string name="sv">Save</string>
+    <string name="cal">Calculate</string>
+    <string name="costblank">Cost …</string>
+    <string name="fuelused">Amount of fuel used %.2f litrs</string>
+    <string name="km">km</string>
+    <string name="lkm">L/100km</string>
+    <string name="costl">€/liter</string>
+</resources>
