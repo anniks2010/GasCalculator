@@ -8,4 +8,10 @@
     <string name="km">km</string>
     <string name="lkm">L/100km</string>
     <string name="costl">€/liter</string>
+    <string name="mounted">Ex. storage is mounted</string>
+    <string name="notMounted">Ex. storage is not mounted</string>
+    <string name="exNonGrant">Ex. storage not granted</string>
+    <string name="exGrant">Ex. storage is granted</string>
+    <string name="saveError">File does not exist!</string>
+    <string name="saveSuccess">File saved!</string>
 </resources>
